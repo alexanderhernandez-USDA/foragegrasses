@@ -5,6 +5,8 @@
 # U.S. Department of Agriculture
 # Logan, Utah
 
+### Comments that clearly explain each one of main steps in this scripting routine will be added as time allows.
+
 #### MAIN SCRIPT FOR THE ENTIRE ANALYSIS
 
 
